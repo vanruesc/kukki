@@ -2,7 +2,7 @@ import test from "ava";
 import browserEnv from "browser-env";
 import { Kukki } from "../../build/kukki.js";
 
-browserEnv(["document", "window"]);
+browserEnv(["document"]);
 
 test("can set a cookie", t => {
 
