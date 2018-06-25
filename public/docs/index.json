@@ -1,0 +1,897 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/core/Kukki.js",
+    "content": "/**\r\n * A regular expression that identifies cookie attributes.\r\n *\r\n * @type {RegExp}\r\n * @private\r\n */\r\n\r\nconst cookieAttributeRegExp = /^(?:expires|max-age|path|domain|secure)$/i;\r\n\r\n/**\r\n * A date that lies in the past.\r\n *\r\n * @type {Date}\r\n * @private\r\n */\r\n\r\nconst past = new Date(0);\r\n\r\n/**\r\n * The cookie manager.\r\n */\r\n\r\nexport class Kukki {\r\n\r\n\t/**\r\n\t * Retrieves the value of the specified cookie.\r\n\t *\r\n\t * @param {String} key - The name of the cookie.\r\n\t * @return {String} The value of the cookie, or null if the cookie doesn't exist.\r\n\t */\r\n\r\n\tstatic get(key) {\r\n\r\n\t\tlet result = null;\r\n\r\n\t\tif(key !== undefined && key !== null) {\r\n\r\n\t\t\tresult = decodeURIComponent(document.cookie.replace(new RegExp(\r\n\t\t\t\t\"(?:(?:^|.*;)\\\\s*\" +\r\n\t\t\t\tencodeURIComponent(key).replace(/[-.+*]/g, \"\\\\$&\") +\r\n\t\t\t\t\"\\\\s*=\\\\s*([^;]*).*$)|^.*$\"\r\n\t\t\t), \"$1\"));\r\n\r\n\t\t}\r\n\r\n\t\treturn result;\r\n\r\n\t}\r\n\r\n\t/**\r\n\t * Sets a new cookie or updates an existing one.\r\n\t *\r\n\t * @param {String} key - The name of the cookie.\r\n\t * @param {String} value - The value of the cookie.\r\n\t * @param {Object} [attributes] - Optional cookie attributes.\r\n\t * @param {Date} [attributes.expires] - The expiration date. If omitted, the cookie will only be valid during the current session.\r\n\t * @param {String} [attributes.path] - The path under which the cookie should be visible.\r\n\t * @param {String} [attributes.domain] - The domain under which the cookie should be visible. If omitted, the cookie will only be visible where it was created.\r\n\t * @param {Boolean} [attributes.secure=false] - Whether the cookie requires a secure connection.\r\n\t */\r\n\r\n\tstatic set(key, value, attributes) {\r\n\r\n\t\tattributes = Object.assign({\r\n\t\t\texpires: null,\r\n\t\t\tpath: null,\r\n\t\t\tdomain: null,\r\n\t\t\tsecure: false\r\n\t\t}, attributes);\r\n\r\n\t\tif(key !== undefined && key !== null && !cookieAttributeRegExp.test(key)) {\r\n\r\n\t\t\tconst expires = (attributes.expires !== null) ? \"; expires=\" + attributes.expires.toUTCString() : \"\";\r\n\t\t\tconst path = (attributes.path !== null) ? \"; path=\" + attributes.path : \"\";\r\n\t\t\tconst domain = (attributes.domain !== null) ? \"; domain=\" + attributes.domain : \"\";\r\n\t\t\tconst secure = (attributes.secure) ? \"; secure\" : \"\";\r\n\r\n\t\t\tdocument.cookie = encodeURIComponent(key) + \"=\" + encodeURIComponent(value) + expires + path + domain + secure;\r\n\r\n\t\t}\r\n\r\n\t}\r\n\r\n\t/**\r\n\t * Checks if the specified cookie exists.\r\n\t *\r\n\t * @param {String} key - The name of the cookie.\r\n\t * @return {Boolean} Whether the cookie exists.\r\n\t */\r\n\r\n\tstatic has(key) {\r\n\r\n\t\tlet result = false;\r\n\r\n\t\tif(key !== undefined && key !== null && !cookieAttributeRegExp.test(key)) {\r\n\r\n\t\t\tresult = (new RegExp(\"(?:^|;\\\\s*)\" + encodeURIComponent(key).replace(/[-.+*]/g, \"\\\\$&\") + \"\\\\s*=\")).test(document.cookie);\r\n\r\n\t\t}\r\n\r\n\t\treturn result;\r\n\r\n\t}\r\n\r\n\t/**\r\n\t * Removes the specified cookie.\r\n\t *\r\n\t * Cookies that have been created with a `path` or `domain` attribute can only\r\n\t * be deleted if those attributes are provided. Cookies with an `http`\r\n\t * attribute cannot be deleted programmatically.\r\n\t *\r\n\t * @param {String} key - The name of the cookie.\r\n\t * @param {Object} [attributes] - Additional cookie attributes.\r\n\t * @param {String} [attributes.path] - The path under which the cookie is visible. Not required if the path was never specified.\r\n\t * @param {String} [attributes.domain] - The domain under which the cookie is visible. Not required if the domain was never specified.\r\n\t */\r\n\r\n\tstatic delete(key, attributes) {\r\n\r\n\t\tif(this.has(key)) {\r\n\r\n\t\t\tattributes = Object.assign({\r\n\t\t\t\tpath: null,\r\n\t\t\t\tdomain: null\r\n\t\t\t}, attributes);\r\n\r\n\t\t\tconst expires = \"; expires=\" + past.toUTCString();\r\n\t\t\tconst path = (attributes.path !== null) ? \"; path=\" + attributes.path : \"\";\r\n\t\t\tconst domain = (attributes.domain !== null) ? \"; domain=\" + attributes.domain : \"\";\r\n\r\n\t\t\tdocument.cookie = encodeURIComponent(key) + \"=\" + expires + path + domain;\r\n\r\n\t\t}\r\n\r\n\t}\r\n\r\n\t/**\r\n\t * Returns an array of cookie keys.\r\n\t *\r\n\t * @return {String[]} The keys.\r\n\t */\r\n\r\n\tstatic keys() {\r\n\r\n\t\treturn document.cookie\r\n\t\t\t.replace(/((?:^|\\s*;)[^=]+)(?=;|$)|^\\s*|\\s*(?:=[^;]*)?(?:\\1|$)/g, \"\")\r\n\t\t\t.split(/\\s*(?:=[^;]*)?;\\s*/)\r\n\t\t\t.map((key) => decodeURIComponent(key));\r\n\r\n\t}\r\n\r\n}\r\n",
+    "static": true,
+    "longname": "D:/Sourcecode/JavaScript/kukki/src/core/Kukki.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "variable",
+    "name": "cookieAttributeRegExp",
+    "memberof": "src/core/Kukki.js",
+    "static": true,
+    "longname": "src/core/Kukki.js~cookieAttributeRegExp",
+    "access": "private",
+    "export": false,
+    "importPath": "kukki/src/core/Kukki.js",
+    "importStyle": null,
+    "description": "A regular expression that identifies cookie attributes.",
+    "lineNumber": 8,
+    "type": {
+      "nullable": null,
+      "types": [
+        "RegExp"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 50,
+    "kind": "variable",
+    "name": "past",
+    "memberof": "src/core/Kukki.js",
+    "static": true,
+    "longname": "src/core/Kukki.js~past",
+    "access": "private",
+    "export": false,
+    "importPath": "kukki/src/core/Kukki.js",
+    "importStyle": null,
+    "description": "A date that lies in the past.",
+    "lineNumber": 17,
+    "type": {
+      "nullable": null,
+      "types": [
+        "Date"
+      ],
+      "spread": false,
+      "description": null
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 51,
+    "kind": "class",
+    "name": "Kukki",
+    "memberof": "src/core/Kukki.js",
+    "static": true,
+    "longname": "src/core/Kukki.js~Kukki",
+    "access": "public",
+    "export": true,
+    "importPath": "kukki/src/core/Kukki.js",
+    "importStyle": "{Kukki}",
+    "description": "The cookie manager.",
+    "lineNumber": 23,
+    "interface": false
+  },
+  {
+    "__docId__": 52,
+    "kind": "method",
+    "name": "get",
+    "memberof": "src/core/Kukki.js~Kukki",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Kukki.js~Kukki.get",
+    "access": "public",
+    "description": "Retrieves the value of the specified cookie.",
+    "lineNumber": 32,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "The name of the cookie."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "String"
+      ],
+      "spread": false,
+      "description": "The value of the cookie, or null if the cookie doesn't exist."
+    }
+  },
+  {
+    "__docId__": 53,
+    "kind": "method",
+    "name": "set",
+    "memberof": "src/core/Kukki.js~Kukki",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Kukki.js~Kukki.set",
+    "access": "public",
+    "description": "Sets a new cookie or updates an existing one.",
+    "lineNumber": 62,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "The name of the cookie."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "The value of the cookie."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes",
+        "description": "Optional cookie attributes."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Date"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes.expires",
+        "description": "The expiration date. If omitted, the cookie will only be valid during the current session."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes.path",
+        "description": "The path under which the cookie should be visible."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes.domain",
+        "description": "The domain under which the cookie should be visible. If omitted, the cookie will only be visible where it was created."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Boolean"
+        ],
+        "spread": false,
+        "optional": true,
+        "defaultValue": "false",
+        "defaultRaw": false,
+        "name": "attributes.secure",
+        "description": "Whether the cookie requires a secure connection."
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 54,
+    "kind": "method",
+    "name": "has",
+    "memberof": "src/core/Kukki.js~Kukki",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Kukki.js~Kukki.has",
+    "access": "public",
+    "description": "Checks if the specified cookie exists.",
+    "lineNumber": 91,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "The name of the cookie."
+      }
+    ],
+    "return": {
+      "nullable": null,
+      "types": [
+        "Boolean"
+      ],
+      "spread": false,
+      "description": "Whether the cookie exists."
+    }
+  },
+  {
+    "__docId__": 55,
+    "kind": "method",
+    "name": "delete",
+    "memberof": "src/core/Kukki.js~Kukki",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Kukki.js~Kukki.delete",
+    "access": "public",
+    "description": "Removes the specified cookie.\n\nCookies that have been created with a `path` or `domain` attribute can only\nbe deleted if those attributes are provided. Cookies with an `http`\nattribute cannot be deleted programmatically.",
+    "lineNumber": 118,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "key",
+        "description": "The name of the cookie."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "Object"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes",
+        "description": "Additional cookie attributes."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes.path",
+        "description": "The path under which the cookie is visible. Not required if the path was never specified."
+      },
+      {
+        "nullable": null,
+        "types": [
+          "String"
+        ],
+        "spread": false,
+        "optional": true,
+        "name": "attributes.domain",
+        "description": "The domain under which the cookie is visible. Not required if the domain was never specified."
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 56,
+    "kind": "method",
+    "name": "keys",
+    "memberof": "src/core/Kukki.js~Kukki",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/core/Kukki.js~Kukki.keys",
+    "access": "public",
+    "description": "Returns an array of cookie keys.",
+    "lineNumber": 143,
+    "return": {
+      "nullable": null,
+      "types": [
+        "String[]"
+      ],
+      "spread": false,
+      "description": "The keys."
+    },
+    "params": []
+  },
+  {
+    "__docId__": 57,
+    "kind": "file",
+    "name": "src/index.js",
+    "content": "/**\r\n * Exposure of the library components.\r\n *\r\n * @module kukki\r\n */\r\n\r\nexport { Kukki } from \"./core/Kukki.js\";\r\n",
+    "static": true,
+    "longname": "D:/Sourcecode/JavaScript/kukki/src/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": "# Kukki\r\n\r\n[![Build status](https://travis-ci.org/vanruesc/kukki.svg?branch=master)](https://travis-ci.org/vanruesc/kukki) \r\n[![npm version](https://badge.fury.io/js/kukki.svg)](http://badge.fury.io/js/kukki) \r\n[![Dependencies](https://david-dm.org/vanruesc/kukki.svg?branch=master)](https://david-dm.org/vanruesc/kukki)\r\n\r\nA static cookie manager that behaves like a [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map).\r\n\r\n*[API Reference](https://vanruesc.github.io/kukki/public/docs)*\r\n\r\n\r\n## Installation\r\n\r\n```sh\r\nnpm install kukki\r\n``` \r\n\r\n\r\n## Usage\r\n\r\n```javascript\r\nimport { Kukki } from \"kukki\";\r\n\r\n// Create a new cookie.\r\nKukki.set(\"key\", \"value\");\r\nKukki.get(\"key\"); // => \"value\"\r\n\r\n// Create a persistent cookie.\r\nconst date = new Date();\r\ndate.setFullYear(date.getFullYear() + 2);\r\nKukki.set(\"persistentCookie\", \"persistentValue\", { expires: date });\r\n```\r\n\r\n\r\n## Contributing\r\n\r\nPlease refer to the [contribution guidelines](https://github.com/vanruesc/kukki/blob/master/.github/CONTRIBUTING.md) for details.\r\n",
+    "longname": "D:\\Sourcecode\\JavaScript\\kukki\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\r\n\t\"name\": \"kukki\",\r\n\t\"version\": \"1.0.0\",\r\n\t\"description\": \"A robust cookie manager.\",\r\n\t\"homepage\": \"https://github.com/vanruesc/kukki\",\r\n\t\"main\": \"build/kukki.js\",\r\n\t\"module\": \"src/index.js\",\r\n\t\"sideEffects\": false,\r\n\t\"license\": \"Zlib\",\r\n\r\n\t\"keywords\": [\r\n\t\t\"cookie\",\r\n\t\t\"website\",\r\n\t\t\"http\",\r\n\t\t\"robust\",\r\n\t\t\"simple\",\r\n\t\t\"static\",\r\n\t\t\"weak\",\r\n\t\t\"map\"\r\n\t],\r\n\r\n\t\"author\": {\r\n\t\t\"name\": \"Raoul van Rüschen\",\r\n\t\t\"email\": \"vanruesc@outlook.de\"\r\n\t},\r\n\r\n\t\"repository\": {\r\n\t\t\"type\": \"git\",\r\n\t\t\"url\": \"https://github.com/vanruesc/kukki.git\"\r\n\t},\r\n\r\n\t\"bugs\": {\r\n\t\t\"url\": \"https://github.com/vanruesc/kukki/issues\"\r\n\t},\r\n\r\n\t\"files\": [\r\n\t\t\"src\",\r\n\t\t\"build\"\r\n\t],\r\n\r\n\t\"scripts\": {\r\n\t\t\"lint\": \"npm run lint:lib && npm run lint:test\",\r\n\t\t\"lint:lib\": \"eslint src\",\r\n\t\t\"lint:test\": \"eslint test\",\r\n\t\t\"build\": \"rollup -c\",\r\n\t\t\"build:production\": \"cross-env BABEL_ENV=production rollup -c\",\r\n\t\t\"doc\": \"esdoc\",\r\n\t\t\"test\": \"ava\"\r\n\t},\r\n\r\n\t\"engines\": {\r\n\t\t\"node\": \">=4.0.0\"\r\n\t},\r\n\r\n\t\"ava\": {\r\n\t\t\"failFast\": true,\r\n\t\t\"files\": [\"test/**/*.js\"]\r\n\t},\r\n\r\n\t\"eslintConfig\": {\r\n\t\t\"extends\": \"delta\"\r\n\t},\r\n\r\n\t\"devDependencies\": {\r\n\t\t\"ava\": \"0.x.x\",\r\n\t\t\"babel-core\": \"6.x.x\",\r\n\t\t\"babel-plugin-external-helpers\": \"6.x.x\",\r\n\t\t\"babel-preset-env\": \"1.x.x\",\r\n\t\t\"browser-env\": \"3.x.x\",\r\n\t\t\"cross-env\": \"5.x.x\",\r\n\t\t\"esdoc\": \"1.x.x\",\r\n\t\t\"esdoc-standard-plugin\": \"1.x.x\",\r\n\t\t\"eslint\": \"5.x.x\",\r\n\t\t\"eslint-config-delta\": \"0.x.x\",\r\n\t\t\"rollup\": \"0.x.x\",\r\n\t\t\"rollup-plugin-babel\": \"3.x.x\",\r\n\t\t\"rollup-plugin-babel-minify\": \"5.x.x\",\r\n\t\t\"rollup-plugin-node-resolve\": \"3.x.x\"\r\n\t}\r\n}\r\n",
+    "longname": "D:\\Sourcecode\\JavaScript\\kukki\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

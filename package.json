@@ -1,0 +1,75 @@
+{
+	"name": "kukki",
+	"version": "1.0.0",
+	"description": "A simple cookie manager.",
+	"homepage": "https://github.com/vanruesc/kukki",
+	"main": "build/kukki.js",
+	"module": "src/index.js",
+	"sideEffects": false,
+	"license": "Zlib",
+
+	"keywords": [
+		"cookie",
+		"static",
+		"map"
+	],
+
+	"author": {
+		"name": "Raoul van Rüschen",
+		"email": "vanruesc@outlook.de"
+	},
+
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vanruesc/kukki.git"
+	},
+
+	"bugs": {
+		"url": "https://github.com/vanruesc/kukki/issues"
+	},
+
+	"files": [
+		"src",
+		"build"
+	],
+
+	"scripts": {
+		"lint": "npm run lint:lib && npm run lint:test",
+		"lint:lib": "eslint src",
+		"lint:test": "eslint test",
+		"build": "rollup -c",
+		"build:production": "cross-env BABEL_ENV=production rollup -c",
+		"doc": "esdoc",
+		"test": "ava"
+	},
+
+	"engines": {
+		"node": ">=4.0.0"
+	},
+
+	"ava": {
+		"failFast": true,
+		"files": ["test/**/*.js"]
+	},
+
+	"eslintConfig": {
+		"extends": "delta"
+	},
+
+	"devDependencies": {
+		"ava": "0.x.x",
+		"babel-core": "6.x.x",
+		"babel-plugin-external-helpers": "6.x.x",
+		"babel-preset-env": "1.x.x",
+		"browser-env": "3.x.x",
+		"cross-env": "5.x.x",
+		"esdoc": "1.x.x",
+		"esdoc-standard-plugin": "1.x.x",
+		"eslint": "5.x.x",
+		"eslint-config-delta": "0.x.x",
+		"rollup": "0.x.x",
+		"rollup-plugin-babel": "3.x.x",
+		"rollup-plugin-babel-minify": "5.x.x",
+		"rollup-plugin-node-resolve": "3.x.x"
+	}
+}
