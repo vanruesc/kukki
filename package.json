@@ -45,11 +45,13 @@
 		"build": "rollup -c",
 		"build:production": "cross-env BABEL_ENV=production rollup -c",
 		"doc": "esdoc",
-		"test": "ava"
+		"test": "ava",
+		"prepack": "npm run lint && npm run build:production"
 	},
 
 	"engines": {
-		"node": ">=4.0.0"
+		"node": ">=4.0.0",
+		"npm": ">=4.0.0"
 	},
 
 	"ava": {
