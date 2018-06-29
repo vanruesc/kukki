@@ -1,5 +1,5 @@
 /**
- * kukki v1.0.0 build Tue Jun 26 2018
+ * kukki v1.0.1 build Fri Jun 29 2018
  * https://github.com/vanruesc/kukki
  * Copyright 2018 Raoul van Rüschen, Zlib
  */
