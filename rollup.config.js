@@ -21,14 +21,24 @@ const lib = {
 		banner: banner
 	},
 
-	plugins: [resolve()].concat(process.env.BABEL_ENV === "production" ?
-		[babel(), minify({
-			bannerNewLine: true,
-			sourceMap: false,
-			comments: false
-		})] : []
-	)
+	plugins: [resolve()].concat(process.env.NODE_ENV === "production" ? [babel()] : [])
 
 };
 
-export default [lib];
+export default [lib].concat((process.env.NODE_ENV === "production") ? [
+
+	Object.assign({}, lib, {
+
+		output: Object.assign({}, lib.output, {
+			file: "build/" + pkg.name + ".min.js"
+		}),
+
+		plugins: [resolve()].concat([babel(), minify({
+			bannerNewLine: true,
+			sourceMap: false,
+			comments: false
+		})])
+
+	})
+
+] : []);

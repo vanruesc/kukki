@@ -6,7 +6,7 @@
 
 A static cookie manager that behaves like a [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map).
 
-*[API Reference](https://vanruesc.github.io/kukki/public/docs)*
+*[API Reference](https://vanruesc.github.io/kukki/docs)*
 
 
 ## Installation
