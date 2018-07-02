@@ -1,8 +1,8 @@
 window.esdocSearchIndex = [
   [
-    "kukki/src/core/kukki.js~kukki",
-    "class/src/core/Kukki.js~Kukki.html",
-    "<span>Kukki</span> <span class=\"search-result-import-path\">kukki/src/core/Kukki.js</span>",
+    "kukki/src/kukki.js~kukki",
+    "class/src/Kukki.js~Kukki.html",
+    "<span>Kukki</span> <span class=\"search-result-import-path\">kukki/src/Kukki.js</span>",
     "class"
   ],
   [
@@ -288,39 +288,39 @@ window.esdocSearchIndex = [
     "external"
   ],
   [
-    "src/core/kukki.js",
-    "file/src/core/Kukki.js.html",
-    "src/core/Kukki.js",
+    "src/kukki.js",
+    "file/src/Kukki.js.html",
+    "src/Kukki.js",
     "file"
   ],
   [
-    "src/core/kukki.js~kukki.delete",
-    "class/src/core/Kukki.js~Kukki.html#static-method-delete",
-    "src/core/Kukki.js~Kukki.delete",
+    "src/kukki.js~kukki.delete",
+    "class/src/Kukki.js~Kukki.html#static-method-delete",
+    "src/Kukki.js~Kukki.delete",
     "method"
   ],
   [
-    "src/core/kukki.js~kukki.get",
-    "class/src/core/Kukki.js~Kukki.html#static-method-get",
-    "src/core/Kukki.js~Kukki.get",
+    "src/kukki.js~kukki.get",
+    "class/src/Kukki.js~Kukki.html#static-method-get",
+    "src/Kukki.js~Kukki.get",
     "method"
   ],
   [
-    "src/core/kukki.js~kukki.has",
-    "class/src/core/Kukki.js~Kukki.html#static-method-has",
-    "src/core/Kukki.js~Kukki.has",
+    "src/kukki.js~kukki.has",
+    "class/src/Kukki.js~Kukki.html#static-method-has",
+    "src/Kukki.js~Kukki.has",
     "method"
   ],
   [
-    "src/core/kukki.js~kukki.keys",
-    "class/src/core/Kukki.js~Kukki.html#static-method-keys",
-    "src/core/Kukki.js~Kukki.keys",
+    "src/kukki.js~kukki.keys",
+    "class/src/Kukki.js~Kukki.html#static-method-keys",
+    "src/Kukki.js~Kukki.keys",
     "method"
   ],
   [
-    "src/core/kukki.js~kukki.set",
-    "class/src/core/Kukki.js~Kukki.html#static-method-set",
-    "src/core/Kukki.js~Kukki.set",
+    "src/kukki.js~kukki.set",
+    "class/src/Kukki.js~Kukki.html#static-method-set",
+    "src/Kukki.js~Kukki.set",
     "method"
   ],
   [

@@ -4,4 +4,4 @@
  * @module kukki
  */
 
-export { Kukki } from "./core/Kukki.js";
+export { Kukki } from "./Kukki.js";

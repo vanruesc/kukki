@@ -1,7 +1,7 @@
 {
   "type": "File",
   "start": 0,
-  "end": 116,
+  "end": 111,
   "loc": {
     "start": {
       "line": 1,
@@ -15,7 +15,7 @@
   "program": {
     "type": "Program",
     "start": 0,
-    "end": 116,
+    "end": 111,
     "loc": {
       "start": {
         "line": 1,
@@ -31,7 +31,7 @@
       {
         "type": "ExportNamedDeclaration",
         "start": 74,
-        "end": 114,
+        "end": 109,
         "loc": {
           "start": {
             "line": 7,
@@ -39,7 +39,7 @@
           },
           "end": {
             "line": 7,
-            "column": 40
+            "column": 35
           }
         },
         "declaration": null,
@@ -99,7 +99,7 @@
         "source": {
           "type": "StringLiteral",
           "start": 96,
-          "end": 113,
+          "end": 108,
           "loc": {
             "start": {
               "line": 7,
@@ -107,14 +107,14 @@
             },
             "end": {
               "line": 7,
-              "column": 39
+              "column": 34
             }
           },
           "extra": {
-            "rawValue": "./core/Kukki.js",
-            "raw": "\"./core/Kukki.js\""
+            "rawValue": "./Kukki.js",
+            "raw": "\"./Kukki.js\""
           },
-          "value": "./core/Kukki.js"
+          "value": "./Kukki.js"
         },
         "leadingComments": [
           {
@@ -316,9 +316,9 @@
         "binop": null,
         "updateContext": null
       },
-      "value": "./core/Kukki.js",
+      "value": "./Kukki.js",
       "start": 96,
-      "end": 113,
+      "end": 108,
       "loc": {
         "start": {
           "line": 7,
@@ -326,7 +326,7 @@
         },
         "end": {
           "line": 7,
-          "column": 39
+          "column": 34
         }
       }
     },
@@ -343,16 +343,16 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 113,
-      "end": 114,
+      "start": 108,
+      "end": 109,
       "loc": {
         "start": {
           "line": 7,
-          "column": 39
+          "column": 34
         },
         "end": {
           "line": 7,
-          "column": 40
+          "column": 35
         }
       }
     },
@@ -369,8 +369,8 @@
         "binop": null,
         "updateContext": null
       },
-      "start": 116,
-      "end": 116,
+      "start": 111,
+      "end": 111,
       "loc": {
         "start": {
           "line": 8,

@@ -3,7 +3,7 @@
   "expectCount": 8,
   "actualCount": 8,
   "files": {
-    "src/core/Kukki.js": {
+    "src/Kukki.js": {
       "expectCount": 8,
       "actualCount": 8,
       "undocumentLines": []
