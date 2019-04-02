@@ -1,6 +1,6 @@
 {
 	"name": "kukki",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "A simple cookie manager.",
 	"homepage": "https://github.com/vanruesc/kukki",
 	"main": "build/kukki.js",

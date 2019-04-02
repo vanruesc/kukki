@@ -78,6 +78,12 @@ export class Kukki {
 				&quot;\\s*=\\s*([^;]*).*$)|^.*$&quot;
 			), &quot;$1&quot;));
 
+			if(result.length === 0) {
+
+				result = null;
+
+			}
+
 		}
 
 		return result;

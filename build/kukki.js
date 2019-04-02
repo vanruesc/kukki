@@ -1,5 +1,5 @@
 /**
- * kukki v1.0.3 build Sat Mar 30 2019
+ * kukki v1.0.4 build Tue Apr 02 2019
  * https://github.com/vanruesc/kukki
  * Copyright 2019 Raoul van Rüschen, Zlib
  */
@@ -45,6 +45,10 @@
 
         if (key !== undefined && key !== null) {
           result = decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(key).replace(/[-.+*]/g, "\\$&") + "\\s*=\\s*([^;]*).*$)|^.*$"), "$1"));
+
+          if (result.length === 0) {
+            result = null;
+          }
         }
 
         return result;
