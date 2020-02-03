@@ -1,13 +1,14 @@
 /**
- * kukki v1.0.4 build Tue Apr 02 2019
+ * kukki v1.1.0 build Mon Feb 03 2020
  * https://github.com/vanruesc/kukki
- * Copyright 2019 Raoul van Rüschen, Zlib
+ * Copyright 2020 Raoul van Rüschen
+ * @license Zlib
  */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
   typeof define === 'function' && define.amd ? define(['exports'], factory) :
   (global = global || self, factory(global.KUKKI = {}));
-}(this, function (exports) { 'use strict';
+}(this, (function (exports) { 'use strict';
 
   function _classCallCheck(instance, Constructor) {
     if (!(instance instanceof Constructor)) {
@@ -33,6 +34,7 @@
 
   var cookieAttributeRegExp = /^(?:expires|max-age|path|domain|secure)$/i;
   var past = new Date(0);
+
   var Kukki = function () {
     function Kukki() {
       _classCallCheck(this, Kukki);
@@ -112,4 +114,4 @@
 
   Object.defineProperty(exports, '__esModule', { value: true });
 
-}));
+})));
