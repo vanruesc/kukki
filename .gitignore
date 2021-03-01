@@ -32,6 +32,6 @@ package-lock.json
 
 # Generated files
 dist
-public
+docs
 *.log
 *.tmp
