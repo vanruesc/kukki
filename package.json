@@ -3,8 +3,13 @@
 	"version": "1.1.0",
 	"description": "A simple cookie manager.",
 	"homepage": "https://github.com/vanruesc/kukki",
-	"main": "build/kukki.js",
-	"module": "build/kukki.esm.js",
+	"main": "dist/kukki.js",
+	"module": "dist/kukki.js",
+	"types": "dist/types/index.d.ts",
+	"exports": {
+		".": "./dist/kukki.js"
+	},
+	"type": "module",
 	"sideEffects": false,
 	"license": "Zlib",
 	"keywords": [
@@ -29,49 +34,49 @@
 		"url": "https://github.com/vanruesc/kukki/issues"
 	},
 	"files": [
-		"build"
+		"dist"
 	],
+	"engines": {
+		"node": ">= 0.14.0"
+	},
 	"scripts": {
 		"ava": "ava",
-		"lint": "npm run lint:lib && npm run lint:test",
-		"lint:config": "eslint *.js",
-		"lint:lib": "eslint src",
-		"lint:test": "eslint test",
-		"build": "rollup -c",
-		"build:production": "cross-env NODE_ENV=production npm run build",
-		"watch": "rollup -c -w",
-		"doc": "rimraf public/docs && esdoc",
-		"pretest": "npm run lint && npm run build:production",
-		"test": "ava",
-		"prepack": "npm test && npm run doc"
+		"build": "run-s build:*",
+		"build:js": "node esbuild",
+		"build:dts": "tsc -p tsconfig.d.json",
+		"clean": "del-cli dist docs",
+		"deploy": "run-s lint doc",
+		"doc": "typedoc",
+		"lint": "tsc --noemit && eslint --ext .ts --fix src",
+		"prepublishOnly": "run-s clean test doc",
+		"test": "run-s lint build ava"
 	},
 	"ava": {
 		"failFast": true,
 		"files": [
 			"test/**/*.js"
-		],
-		"require": [
-			"esm"
 		]
 	},
 	"eslintConfig": {
-		"extends": "aether"
+		"root": true,
+		"extends": "aether/typescript",
+		"parserOptions": {
+			"project": [
+				"tsconfig.json"
+			]
+		}
 	},
 	"devDependencies": {
-		"@babel/core": "7.x.x",
-		"@babel/preset-env": "7.x.x",
-		"@rollup/plugin-node-resolve": "7.x.x",
+		"@typescript-eslint/eslint-plugin": "4.x.x",
+		"@typescript-eslint/parser": "4.x.x",
 		"ava": "3.x.x",
-		"browser-env": "3.x.x",
-		"cross-env": "7.x.x",
-		"esdoc": "1.x.x",
-		"esdoc-standard-plugin": "1.x.x",
-		"eslint": "6.x.x",
+		"del-cli": "3.x.x",
+		"esbuild": "0.x.x",
+		"eslint": "7.x.x",
 		"eslint-config-aether": "1.x.x",
-		"esm": "3.x.x",
-		"rimraf": "3.x.x",
-		"rollup": "1.x.x",
-		"rollup-plugin-babel": "4.x.x",
-		"rollup-plugin-terser": "5.x.x"
+		"npm-run-all": "4.x.x",
+		"tslib": "2.x.x",
+		"typedoc": "0.x.x",
+		"typescript": "4.x.x"
 	}
 }
