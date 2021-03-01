@@ -22,5 +22,5 @@ const config = {
 
 const t0 = Date.now();
 esbuild.build(config)
-	.then(() => console.log(`Built ${c.outfile} in ${Date.now() - t0}ms`))
-	.catch(() => process.exit(1)));
+	.then(() => console.log(`Built ${config.outfile} in ${Date.now() - t0}ms`))
+	.catch(() => process.exit(1));
