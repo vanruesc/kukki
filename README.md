@@ -1,12 +1,12 @@
 # Kukki
 
-[![Build status](https://travis-ci.org/vanruesc/kukki.svg?branch=master)](https://travis-ci.org/vanruesc/kukki) 
-[![npm version](https://badge.fury.io/js/kukki.svg)](http://badge.fury.io/js/kukki) 
-[![Dependencies](https://david-dm.org/vanruesc/kukki.svg?branch=master)](https://david-dm.org/vanruesc/kukki)
+[![CI](https://badgen.net/github/checks/vanruesc/kukki/main)](https://github.com/vanruesc/kukki/actions)
+[![Version](https://badgen.net/npm/v/kukki?color=green)](https://www.npmjs.com/package/kukki)
+[![Dependencies](https://badgen.net/david/peer/vanruesc/kukki)](https://david-dm.org/vanruesc/kukki)
 
 A static cookie manager that behaves like a [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map).
 
-*[API Reference](https://vanruesc.github.io/kukki)*
+*[Documentation](https://vanruesc.github.io/kukki)*
 
 
 ## Installation
@@ -34,4 +34,4 @@ Kukki.set("persistentCookie", "persistentValue", { expires: date });
 
 ## Contributing
 
-Please refer to the [contribution guidelines](https://github.com/vanruesc/kukki/blob/master/.github/CONTRIBUTING.md) for details.
+Maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code.
