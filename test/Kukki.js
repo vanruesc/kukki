@@ -1,6 +1,6 @@
 import test from "ava";
 import browserEnv from "browser-env";
-import { Kukki } from "../build/kukki.js";
+import { Kukki } from "../dist/kukki.js";
 
 browserEnv(["document"]);
 
