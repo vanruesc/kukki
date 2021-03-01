@@ -2,7 +2,7 @@
 
 [![CI](https://badgen.net/github/checks/vanruesc/kukki/main)](https://github.com/vanruesc/kukki/actions)
 [![Version](https://badgen.net/npm/v/kukki?color=green)](https://www.npmjs.com/package/kukki)
-[![Dependencies](https://badgen.net/david/peer/vanruesc/kukki)](https://david-dm.org/vanruesc/kukki)
+[![Dependencies](https://badgen.net/david/dep/vanruesc/kukki)](https://david-dm.org/vanruesc/kukki)
 
 A static cookie manager that behaves like a [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map).
 
